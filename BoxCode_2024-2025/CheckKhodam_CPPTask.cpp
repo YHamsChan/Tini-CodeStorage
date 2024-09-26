@@ -4,7 +4,7 @@
 #include<cstdlib>
 #include <cstdlib>
 #include <ctime>
-#include <windows.h>
+#include <unistd.h> // atau [or] <windows.h>
 bool Repeated = false;
 using namespace std;
 string Common[] = {"Kecoak Emas", "Kulkas Terbang", "Beruang Jawa", "Batu Bata", "Kompor Menyala", "Jemuran Penuh",
