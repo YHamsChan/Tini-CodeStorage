@@ -2,7 +2,6 @@
 #include <string>
 #include <stdio.h>
 #include<cstdlib>
-#include <cstdlib>
 #include <ctime>
 #include <unistd.h> // atau [or] <windows.h>
 bool Repeated = false;
